@@ -4,9 +4,9 @@ Hi! This is a simple table tennis scorekeeper widget I created using Frontend fr
 
 ## Overview
 
-![] (https://github.com/TarunikaSK/TableTennisScoreKeeper/blob/c80930e486619d018e54ddd2558b70ff1ccb1d08/ScreenshotTTSK1.png?raw=true)
+![](ScreenshotTTSK1.png)
 
-![] (https://github.com/TarunikaSK/TableTennisScoreKeeper/blob/c80930e486619d018e54ddd2558b70ff1ccb1d08/ScreenshotTTSK2.png?raw=true)
+![](ScreenshotTTSK2.png)
 
 ## Built With
 - HTML
